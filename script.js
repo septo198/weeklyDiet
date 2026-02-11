@@ -29,8 +29,8 @@ document.addEventListener("DOMContentLoaded", () => {
         "spremuta, 150g vasetto di yogurt greco 0%, 4 cucchiai di muesli (misto cerali e frutta secca), banana",
         "20g cioccolato fondente, mezza mela",
         "3 uova, carote (min 50g), panino integrale",
-        "15 mandorle, mezza mela",
-        "hummus (130g), piada integrale (110g), insalata",
+        "15 mandorle",
+        "merluzzo impanato, insalata, mezza mela",
       ],
     },
     {
@@ -40,7 +40,7 @@ document.addEventListener("DOMContentLoaded", () => {
         "20g cioccolato fondente, mezza mela",
         "hummus (130g), piada integrale (110g), insalata",
         "15 mandorle, mezza mela",
-        "panino integrale, 160g merluzzo, carote",
+        "hummus (130g), piada integrale (110g), insalata",
       ],
     },
     {
@@ -48,9 +48,9 @@ document.addEventListener("DOMContentLoaded", () => {
       meals: [
         "spremuta, 80g fetta di pane tostato di grano duro/integrale/segale, spalmata di cucchiaio di ricotta magra, miele, 2 noci",
         "20g cioccolato fondente, mezza mela",
-        "panino integrale, 160g merluzzo, carote",
+        "hummus (130g), piada integrale (110g), insalata",
         "15 mandorle, mezza mela",
-        "hummus (130g), piada (110g), insalata",
+        "?",
       ],
     },
     {
