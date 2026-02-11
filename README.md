@@ -1,6 +1,7 @@
 # Weekly Diet
 
 A simple web app for planning and tracking my weekly diet.
+Deployed using GitHub pages.
 
 ## Structure
 - `index.html` – main page markup
