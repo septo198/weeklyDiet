@@ -1,0 +1,44 @@
+
+lun: 
+	col: latte, cereali
+	mer: crackers
+	pra: tonno, carote, crackers, mela
+	mer: mandorle, 2 toast con prosciutto
+	cen: pane, maiale, mela
+mar:
+	col: latte, cereali
+	mer: cioccolatino, crackers
+	pra: pane, maiale, mela
+	cen: sushi (libero)
+mer:
+	col: spremuta, 150g vasetto di yogurt greco 0%, 4 cucchiai di muesli (misto cerali e frutta secca), banana
+	mer: 20g cioccolato fondente, mezza mela
+	pra: 3 uova, carote (min 50g), panino integrale
+	mer: 15 mandorle, mezza mela
+	cen: hummus (130g), piada integrale (110g), insalata
+gio:
+	col: 200ml latte parzialmente scremato, 50g biscotti secchi integrali, banana
+	mer: 20g cioccolato fondente, mezza mela
+	pra: hummus (130g), piada integrale (110g), insalata
+	mer: 15 mandorle, mezza mela
+	cen: panino integrale, 160g merluzzo, carote
+ven:
+	col: spremuta, 80g fetta di pane tostato di grano duro/integrale/segale, spalmata di cucchiaio di ricotta magra, miele, 2 noci
+	mer: 20g cioccolato fondente, mezza mela
+	pra: panino integrale, 160g merluzzo, carote
+	mer: 15 mandorle, mezza mela
+	cen: hummus (130g), piada (110g), insalata
+sab:
+	col: spremuta, 150g vasetto di yogurt greco 0%, 4 cucchiai di muesli (misto cerali e frutta secca), banana
+	mer: 20g cioccolato fondente, mezza mela
+	pra: pasta pomodoro, formaggi, insalata
+	mer: 15 mandorle, mezza mela
+	cen: (libero)
+dom:
+	col: 200ml latte parzialmente scremato, 50g biscotti secchi integrali, banana 
+	mer: 20g cioccolato fondente, mezza mela
+	pra: semi-libero
+	mer: 15 mandorle, mezza mela
+	cen: 80g affettato, verdura
+	
+legumi (3/3), pesce (2/2), carne (2/3), uova (1/1), formaggi (1/1), affettati (1/1)
