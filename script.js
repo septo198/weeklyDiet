@@ -6,21 +6,21 @@ document.addEventListener("DOMContentLoaded", () => {
     {
       name: "Lunedì",
       meals: [
-        "latte, cereali",
-        "crackers",
-        "tonno, carote, crackers, mela",
-        "mandorle, 2 toast con prosciutto",
-        "pane, maiale, mela",
+        "spremuta, banana, yogurt greco, muesli, caffe",
+        "cioccolata, mezza mela",
+        "3 uova, carote, pane integrale",
+        "mandorle, mezza mela",
+        "pollo, patate, crackers",
       ],
     },
     {
       name: "Martedì",
       meals: [
-        "latte, cereali",
-        "cioccolatino, crackers",
-        "pane, maiale, mela",
-        "mandorle",
-        "sushi (libero)",
+        "fette biscotatte, ricotta, miele, spremuta",
+        "cioccolata, mezza mela",
+        "pasta pomodoro, sgombro, insalata",
+        "mandorle, mezza mela",
+        "pesce al forno, carote, pane integrale",
       ],
     },
     {
@@ -28,9 +28,9 @@ document.addEventListener("DOMContentLoaded", () => {
       meals: [
         "spremuta, 150g vasetto di yogurt greco 0%, 4 cucchiai di muesli (misto cerali e frutta secca), banana",
         "20g cioccolato fondente, mezza mela",
-        "3 uova, carote (min 50g), panino integrale",
-        "15 mandorle",
-        "merluzzo impanato, insalata, mezza mela",
+        "pesce al forno, carote, pane integrale",
+        "15 mandorle, mezza mela",
+        "pollo, insalata, pane integrale",
       ],
     },
     {
@@ -38,9 +38,9 @@ document.addEventListener("DOMContentLoaded", () => {
       meals: [
         "200ml latte parzialmente scremato, 50g biscotti secchi integrali, banana",
         "20g cioccolato fondente, mezza mela",
-        "hummus (130g), piada integrale (110g), insalata",
+        "pollo, insalata, pane integrale",
         "15 mandorle, mezza mela",
-        "hummus (130g), piada integrale (110g), insalata",
+        "hummus, piada, carote",
       ],
     },
     {
@@ -48,9 +48,9 @@ document.addEventListener("DOMContentLoaded", () => {
       meals: [
         "spremuta, 80g fetta di pane tostato di grano duro/integrale/segale, spalmata di cucchiaio di ricotta magra, miele, 2 noci",
         "20g cioccolato fondente, mezza mela",
-        "hummus (130g), piada integrale (110g), insalata",
+        "hummus, carote",
         "15 mandorle, mezza mela",
-        "?",
+        "hambuger (libero)",
       ],
     },
     {
@@ -58,9 +58,9 @@ document.addEventListener("DOMContentLoaded", () => {
       meals: [
         "spremuta, 150g vasetto di yogurt greco 0%, 4 cucchiai di muesli (misto cerali e frutta secca), banana",
         "20g cioccolato fondente, mezza mela",
-        "pasta pomodoro, formaggi, insalata",
+        "hummus, carote, piada",
         "15 mandorle, mezza mela",
-        "(libero)",
+        "pizza (libero)",
       ],
     },
     {
@@ -68,9 +68,9 @@ document.addEventListener("DOMContentLoaded", () => {
       meals: [
         "200ml latte parzialmente scremato, 50g biscotti secchi integrali, banana",
         "20g cioccolato fondente, mezza mela",
-        "semi-libero",
+        "pasta pesto, formaggio, insalata",
         "15 mandorle, mezza mela",
-        "80g affettato, verdura",
+        "80g affettato, verdura, piada",
       ],
     },
   ];
