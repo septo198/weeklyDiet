@@ -30,27 +30,27 @@ document.addEventListener("DOMContentLoaded", () => {
         "20g cioccolato fondente, mezza mela",
         "pesce al forno, carote, pane integrale",
         "15 mandorle, mezza mela",
-        "pollo, insalata, pane integrale",
+        "ape (2 drink, patatine), 2 brioche, 1 toast",
       ],
     },
     {
       name: "Giovedì",
       meals: [
-        "200ml latte parzialmente scremato, 50g biscotti secchi integrali, banana",
+        "spremuta, 80g fetta di pane tostato di grano duro/integrale/segale, spalmata di cucchiaio di ricotta magra, miele, 2 noci",
         "20g cioccolato fondente, mezza mela",
-        "pollo, insalata, pane integrale",
+        "pollo, carote, crackers integrali",
         "15 mandorle, mezza mela",
-        "hummus, piada, carote",
+        "hummus, pane integrale, carote",
       ],
     },
     {
       name: "Venerdì",
       meals: [
-        "spremuta, 80g fetta di pane tostato di grano duro/integrale/segale, spalmata di cucchiaio di ricotta magra, miele, 2 noci",
+        "200ml latte parzialmente scremato, 50g biscotti secchi integrali, banana",
         "20g cioccolato fondente, mezza mela",
-        "hummus, carote",
+        "pollo, insalata",
         "15 mandorle, mezza mela",
-        "hambuger (libero)",
+        "sushi (libero)",
       ],
     },
     {
@@ -58,7 +58,7 @@ document.addEventListener("DOMContentLoaded", () => {
       meals: [
         "spremuta, 150g vasetto di yogurt greco 0%, 4 cucchiai di muesli (misto cerali e frutta secca), banana",
         "20g cioccolato fondente, mezza mela",
-        "hummus, carote, piada",
+        "pollo, insalata, pane integrale",
         "15 mandorle, mezza mela",
         "pizza (libero)",
       ],
@@ -70,7 +70,7 @@ document.addEventListener("DOMContentLoaded", () => {
         "20g cioccolato fondente, mezza mela",
         "pasta pesto, formaggio, insalata",
         "15 mandorle, mezza mela",
-        "80g affettato, verdura, piada",
+        "hummus, piada integrale, carote",
       ],
     },
   ];
