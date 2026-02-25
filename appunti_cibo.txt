@@ -1,45 +1,45 @@
 
 lun: 
-	col: spremuta, banana, yogurt greco, muesli, caffe
+	col: pane, ricotta, miele, spremuta
 	mer: cioccolata, mezza mela
-	pra: 3 uova, carote, pane integrale
+	pra: 3 uova, carote, pane
 	mer: mandorle, mezza mela
-	cen: pollo, patate, crackers
+	cen: hummus, carote, pesce impanato, pane
 mar:
-	col: fette biscotatte, ricotta, miele, spremuta
-	mer: cioccolata, mezza mela
-	pra: pasta pomodoro, sgombro, insalata
-	mer: mandorle, mezza mela
-	cen: pesce al forno, carote, pane integrale
+	col: spremuta, yogurt greco, muesli, miele, banana
+	mer: parmigiano, mezza mela
+	pra: hummus, carote, pane, 5 mandorle
+	mer: 10 mandorle, mezza mela
+	cen: birreria (libero)
 mer:
-	col: spremuta, 150g vasetto di yogurt greco 0%, 4 cucchiai di muesli (misto cerali e frutta secca), banana
-	mer: 20g cioccolato fondente, mezza mela
-	pra: pesce al forno, carote, pane integrale
-	mer: 15 mandorle, mezza mela
-	cen: pollo, insalata, pane integrale
+	col: latte, biscotti, banana
+	mer: 20g cioccolato fondente, mezza mela, 5 mandorle
+	pra: hummus, carote, piada, 4 mandorle
+	mer: 10 mandorle, mezza mela
+	cen: pollo, insalata, pane
 gio:
-	col: 200ml latte parzialmente scremato, 50g biscotti secchi integrali, banana
-	mer: 20g cioccolato fondente, mezza mela
-	pra: pollo, insalata, pane integrale
+	col: spremuta, 80g fetta di pane tostato, ricotta, miele, 2 noci
+	mer: 20g parmigiano, mezza mela
+	pra: pollo, insalata, pane
 	mer: 15 mandorle, mezza mela
-	cen: hummus, piada, carote
+	cen: pesce al forno, insalata, pane
 ven:
-	col: spremuta, 80g fetta di pane tostato di grano duro/integrale/segale, spalmata di cucchiaio di ricotta magra, miele, 2 noci
-	mer: 20g cioccolato fondente, mezza mela
-	pra: hummus, carote
-	mer: 15 mandorle, mezza mela
-	cen: hambuger (libero)
-sab:
 	col: spremuta, 150g vasetto di yogurt greco 0%, 4 cucchiai di muesli (misto cerali e frutta secca), banana
+	mer: 20g parmigiano, mezza mela
+	pra: pasta al tonno, insalata
+	mer: 15 mandorle, mezza mela
+	cen: pesce al forno, insalata, pane
+sab:
+	col: latte, biscotti integrali, banana
 	mer: 20g cioccolato fondente, mezza mela
 	pra: hummus, carote, piada
 	mer: 15 mandorle, mezza mela
 	cen: pizza (libero)
 dom:
-	col: 200ml latte parzialmente scremato, 50g biscotti secchi integrali, banana 
+	col: spremuta, 80g fetta di pane tostato, ricotta, miele, 2 noci 
 	mer: 20g cioccolato fondente, mezza mela
-	pra: pasta pesto, formaggio, insalata
+	pra: ?
 	mer: 15 mandorle, mezza mela
-	cen: 80g affettato, verdura, piada
+	cen: ?
 	
-legumi (3/3), pesce (3/2), carne (1/3), uova (1/1), formaggi (1/1), affettati (1/1)
+legumi (3/3), pesce (1/2), carne (2/3), uova (1/1), formaggi (1/1), affettati (1/1)
