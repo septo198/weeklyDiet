@@ -1,45 +1,45 @@
 
 lun: 
 	col: pane, ricotta, miele, spremuta
-	mer: cioccolata, mezza mela
-	pra: 3 uova, carote, pane
-	mer: mandorle, mezza mela
-	cen: hummus, carote, pesce impanato, pane
+	mer: -
+	pra: pollo, insalata, pane int
+	mer: crackers
+	cen: risotto salsiccia, spritz, torte, erbazzone (libero)
 mar:
-	col: spremuta, yogurt greco, muesli, miele, banana
+	col: latte, caffè, biscotti int
 	mer: parmigiano, mezza mela
-	pra: hummus, carote, pane, 5 mandorle
+	pra: pollo, carote, pane, 5 mandorle
 	mer: 10 mandorle, mezza mela
-	cen: birreria (libero)
+	cen: focaccia, mozzarella, biscotti int
 mer:
-	col: latte, biscotti, banana
-	mer: 20g cioccolato fondente, mezza mela, 5 mandorle
-	pra: hummus, carote, piada, 4 mandorle
+	col: yogurt greco, muesli, miele, spremuta, mezza mela
+	mer: parmigiano, mezza mela
+	pra: hummus, carote, piada, 5 mandorle
 	mer: 10 mandorle, mezza mela
 	cen: pollo, insalata, pane
 gio:
-	col: spremuta, 80g fetta di pane tostato, ricotta, miele, 2 noci
+	col: spremuta, 80g fetta di pane tostato, ricotta, miele
 	mer: 20g parmigiano, mezza mela
 	pra: pollo, insalata, pane
 	mer: 15 mandorle, mezza mela
-	cen: pesce al forno, insalata, pane
+	cen: hummus, pane, carote
 ven:
 	col: spremuta, 150g vasetto di yogurt greco 0%, 4 cucchiai di muesli (misto cerali e frutta secca), banana
 	mer: 20g parmigiano, mezza mela
-	pra: pasta al tonno, insalata
+	pra: pasta al tonno/sgombro, insalata
 	mer: 15 mandorle, mezza mela
-	cen: pesce al forno, insalata, pane
+	cen: pesce, insalata, pane
 sab:
-	col: latte, biscotti integrali, banana
+	col: spremuta, 150g vasetto di yogurt greco 0%, 4 cucchiai di muesli (misto cerali e frutta secca), banana
 	mer: 20g cioccolato fondente, mezza mela
-	pra: hummus, carote, piada
+	pra: pasta pomodoro, affettato, insalata
 	mer: 15 mandorle, mezza mela
 	cen: pizza (libero)
 dom:
 	col: spremuta, 80g fetta di pane tostato, ricotta, miele, 2 noci 
-	mer: 20g cioccolato fondente, mezza mela
-	pra: ?
-	mer: 15 mandorle, mezza mela
-	cen: ?
+	mer: -
+	pra: pasta
+	mer: -
+	cen: hummus, piada, carote
 	
-legumi (3/3), pesce (1/2), carne (2/3), uova (1/1), formaggi (1/1), affettati (1/1)
+legumi (3/3), pesce (2/2), carne (4/3), uova (0/1), formaggi (1/1), affettati (1/1)
