@@ -6,31 +6,34 @@ document.addEventListener("DOMContentLoaded", () => {
     {
       name: "Lunedì",
       meals: [
-        "pane, ricotta, miele, spremuta",
-        "-",
-        "pollo, insalata, pane int",
-        "crackers",
-        "risotto salsiccia, spritz, torte, erbazzone (libero)",
+        "latte, banana, biscotti int",
+        "20g cioccolato, mezza mela",
+        "3 uova, insalata, pane int",
+        "mandorle, mezza mela",
+        "40g pane int, pomodorini, sale, olio, parmigiano",
+        "hummus, piada, carote",
       ],
     },
     {
       name: "Martedì",
       meals: [
-        "latte, caffè, biscotti int",
-        "parmigiano, mezza mela",
-        "pollo, carote, pane, 5 mandorle",
-        "10 mandorle, mezza mela",
-        "focaccia, mozzarella, biscotti int",
+        "spremuta, 80g fette di pane tostato, ricotta, miele",
+        "20g cioccolato, mezza mela",
+        "pasta pomodoro, insalata, mozzarella",
+        "mandorle, mezza mela",
+        "40g pane int, pomodorini, sale, olio, parmigiano",
+        "pollo, carote, pane",
       ],
     },
     {
       name: "Mercoledì",
       meals: [
         "yogurt greco, muesli, miele, spremuta, mezza mela",
-        "parmigiano, mezza mela",
-        "hummus, carote, piada, 5 mandorle",
-        "10 mandorle, mezza mela",
-        "pollo, insalata, pane",
+        "20g parmigiano, mezza mela",
+        "hummus, carote, piada",
+        "mandorle, mezza mela",
+        "40g pane int, pomodorini, sale, olio, parmigiano",
+        "crocchette pesce affare, pane (poco), insalata",
       ],
     },
     {
@@ -39,27 +42,30 @@ document.addEventListener("DOMContentLoaded", () => {
         "spremuta, 80g fetta di pane tostato, ricotta, miele",
         "20g parmigiano, mezza mela",
         "pollo, insalata, pane",
-        "15 mandorle, mezza mela",
-        "hummus, pane, carote",
+        "mandorle, mezza mela",
+        "40g pane int, pomodorini, sale, olio, parmigiano",
+        "crocchette pesce findus, pane (poco), insalata",
       ],
     },
     {
       name: "Venerdì",
       meals: [
-        "spremuta, 150g vasetto di yogurt greco 0%, 4 cucchiai di muesli (misto cerali e frutta secca), banana",
+        "latte, banana, biscotti int",
         "20g parmigiano, mezza mela",
-        "pasta al tonno/sgombro, insalata",
+        "crocchette pesce findus, pane (poco), carote",
         "15 mandorle, mezza mela",
-        "pesce al forno, insalata, pane",
+        "40g pane int, pomodorini, sale, olio, parmigiano",
+        "piada con prosciutto, mozzarella e insalata",
       ],
     },
     {
       name: "Sabato",
       meals: [
         "spremuta, 150g vasetto di yogurt greco 0%, 4 cucchiai di muesli (misto cerali e frutta secca), banana",
-        "20g cioccolato fondente, mezza mela",
-        "pasta pomodoro, affettato, insalata",
-        "15 mandorle, mezza mela",
+        "-",
+        "-",
+        "-",
+        "-",
         "pizza (libero)",
       ],
     },
@@ -67,15 +73,16 @@ document.addEventListener("DOMContentLoaded", () => {
       name: "Domenica",
       meals: [
         "spremuta, 80g fetta di pane tostato, ricotta, miele, 2 noci",
-        "-",
-        "pasta",
-        "-",
+        "caffè macchiato",
+        "pasta al pomodoro, insalata, affettato ?",
+        "cioccolato, mela",
+        "40g pane int, pomodorini, sale, olio, parmigiano",
         "hummus, piada, carote",
       ],
     },
   ];
 
-  const mealLabels = ["colazione", "spuntino", "pranzo", "spuntino", "cena"];
+  const mealLabels = ["colazione", "spuntino", "pranzo", "spuntino 1", "spuntino 2", "cena"];
 
   // 0 = Sunday, 6 = Saturday; convert so 0 = Monday, 6 = Sunday
   const jsDay = new Date().getDay();

@@ -1,45 +1,52 @@
 
 lun: 
-	col: pane, ricotta, miele, spremuta
-	mer: -
-	pra: pollo, insalata, pane int
-	mer: crackers
-	cen: risotto salsiccia, spritz, torte, erbazzone (libero)
+	col: latte, banana, biscotti int
+	mer: 20g cioccolato, mezza mela
+	pra: 3 uova, insalata, pane int
+	mer: mandorle, mezza mela
+	me2: 40g pane int, pomodorini, sale, olio, parmigiano 
+	cen: hummus, piada, carote
 mar:
-	col: latte, caffè, biscotti int
-	mer: parmigiano, mezza mela
-	pra: pollo, carote, pane, 5 mandorle
-	mer: 10 mandorle, mezza mela
-	cen: focaccia, mozzarella, biscotti int
+	col: spremuta, 80g fette di pane tostato, ricotta, miele
+	mer: 20g cioccolato, mezza mela
+	pra: pasta pomodoro, insalata, mozzarella
+	mer: mandorle, mezza mela
+	me2: 40g pane int, pomodorini, sale, olio, parmigiano
+	cen: pollo, carote, pane
 mer:
-	col: yogurt greco, muesli, miele, spremuta, mezza mela
-	mer: parmigiano, mezza mela
-	pra: hummus, carote, piada, 5 mandorle
-	mer: 10 mandorle, mezza mela
-	cen: pollo, insalata, pane
+	col: yogurt greco, muesli, miele, spremuta, banana
+	mer: 20g parmigiano, mezza mela
+	pra: hummus, carote, piada
+	mer: mandorle, mezza mela
+	me2: 40g pane int, pomodorini, sale, olio, parmigiano
+	cen: crocchette pesce affare, pane (poco), insalata
 gio:
 	col: spremuta, 80g fetta di pane tostato, ricotta, miele
 	mer: 20g parmigiano, mezza mela
-	pra: pollo, insalata, pane
+	pra: pollo, carote, pane
 	mer: 15 mandorle, mezza mela
-	cen: hummus, pane, carote
+	me2: 40g pane int, pomodorini, sale, olio, parmigiano
+	cen: crocchette pesce findus, pane (poco), insalata
 ven:
-	col: spremuta, 150g vasetto di yogurt greco 0%, 4 cucchiai di muesli (misto cerali e frutta secca), banana
+	col: latte, banana, biscotti int
 	mer: 20g parmigiano, mezza mela
-	pra: pasta al tonno/sgombro, insalata
+	pra: crocchette pesce findus, pane (poco), carote
 	mer: 15 mandorle, mezza mela
-	cen: pesce, insalata, pane
+	me2: 40g pane int, pomodorini, sale, olio, parmigiano
+	cen: piada con prosciutto, mozzarella e insalata
 sab:
 	col: spremuta, 150g vasetto di yogurt greco 0%, 4 cucchiai di muesli (misto cerali e frutta secca), banana
-	mer: 20g cioccolato fondente, mezza mela
-	pra: pasta pomodoro, affettato, insalata
-	mer: 15 mandorle, mezza mela
+	mer: -
+	pra: -
+	mer: -
+	me2: -
 	cen: pizza (libero)
 dom:
 	col: spremuta, 80g fetta di pane tostato, ricotta, miele, 2 noci 
-	mer: -
-	pra: pasta
-	mer: -
+	mer: caffè macchiato
+	pra: pasta al pomodoro, insalata, affettato ?
+	mer: cioccolato, mela
+	me2: 40g pane int, pomodorini, sale, olio, parmigiano
 	cen: hummus, piada, carote
 	
-legumi (3/3), pesce (2/2), carne (4/3), uova (0/1), formaggi (1/1), affettati (1/1)
+legumi (3/3), pesce (3/2), carne (2/3), uova (1/1), formaggi (1/1), affettati (1/1)
