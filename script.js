@@ -6,23 +6,23 @@ document.addEventListener("DOMContentLoaded", () => {
     {
       name: "Lunedì",
       meals: [
-        "latte, banana, biscotti int",
+        "spremuta, 80g fette di pane tostato, ricotta, miele",
         "20g cioccolato, mezza mela",
-        "3 uova, insalata, pane int",
-        "mandorle, mezza mela",
-        "40g pane int, pomodorini, sale, olio, parmigiano",
-        "hummus, piada, carote",
+        "grigliata (libero)",
+        "-",
+        "-",
+        "hummus, carote, piada",
       ],
     },
     {
       name: "Martedì",
       meals: [
-        "spremuta, 80g fette di pane tostato, ricotta, miele",
+        "latte, banana, biscotti int",
         "20g cioccolato, mezza mela",
-        "pasta pomodoro, insalata, mozzarella",
+        "hummus, carote, piada",
         "mandorle, mezza mela",
         "40g pane int, pomodorini, sale, olio, parmigiano",
-        "pollo, carote, pane",
+        "pollo, insalata, pane",
       ],
     },
     {
@@ -30,10 +30,10 @@ document.addEventListener("DOMContentLoaded", () => {
       meals: [
         "yogurt greco, muesli, miele, spremuta, mezza mela",
         "20g parmigiano, mezza mela",
-        "hummus, carote, piada",
+        "pollo, carote, pane",
         "mandorle, mezza mela",
         "40g pane int, pomodorini, sale, olio, parmigiano",
-        "crocchette pesce affare, pane (poco), insalata",
+        "sushi (libero)",
       ],
     },
     {
@@ -41,10 +41,10 @@ document.addEventListener("DOMContentLoaded", () => {
       meals: [
         "spremuta, 80g fetta di pane tostato, ricotta, miele",
         "20g parmigiano, mezza mela",
-        "pollo, insalata, pane",
+        "uova, pane, carote",
         "mandorle, mezza mela",
         "40g pane int, pomodorini, sale, olio, parmigiano",
-        "crocchette pesce findus, pane (poco), insalata",
+        "hummus, carote, piada",
       ],
     },
     {
@@ -52,7 +52,7 @@ document.addEventListener("DOMContentLoaded", () => {
       meals: [
         "latte, banana, biscotti int",
         "20g parmigiano, mezza mela",
-        "crocchette pesce findus, pane (poco), carote",
+        "pasta al pomodoro, insalata, affettato",
         "15 mandorle, mezza mela",
         "40g pane int, pomodorini, sale, olio, parmigiano",
         "piada con prosciutto, mozzarella e insalata",
@@ -63,9 +63,9 @@ document.addEventListener("DOMContentLoaded", () => {
       meals: [
         "spremuta, 150g vasetto di yogurt greco 0%, 4 cucchiai di muesli (misto cerali e frutta secca), banana",
         "-",
+        "pasta al pomodoro, insalata, formaggi",
         "-",
-        "-",
-        "-",
+        "40g pane int, pomodorini, sale, olio, parmigiano",
         "pizza (libero)",
       ],
     },
@@ -73,10 +73,10 @@ document.addEventListener("DOMContentLoaded", () => {
       name: "Domenica",
       meals: [
         "spremuta, 80g fetta di pane tostato, ricotta, miele, 2 noci",
-        "caffè macchiato",
-        "pasta al pomodoro, insalata, affettato ?",
-        "cioccolato, mela",
-        "40g pane int, pomodorini, sale, olio, parmigiano",
+        "-",
+        "-",
+        "-",
+        "-",
         "hummus, piada, carote",
       ],
     },
