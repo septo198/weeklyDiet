@@ -6,34 +6,34 @@ document.addEventListener("DOMContentLoaded", () => {
     {
       name: "Lunedì",
       meals: [
-        "spremuta, 80g fette di pane tostato, ricotta, miele",
-        "20g cioccolato, mezza mela",
+        "latte, banana, biscotti int",
+        "-",
         "grigliata (libero)",
         "-",
         "-",
-        "hummus, carote, piada",
+        "-",
       ],
     },
     {
       name: "Martedì",
       meals: [
         "latte, banana, biscotti int",
-        "20g cioccolato, mezza mela",
+        "20g parmigiano, mezza mela",
         "hummus, carote, piada",
         "mandorle, mezza mela",
-        "40g pane int, pomodorini, sale, olio, parmigiano",
-        "pollo, insalata, pane",
+        "patatine",
+        "pollo, pane",
       ],
     },
     {
       name: "Mercoledì",
       meals: [
-        "yogurt greco, muesli, miele, spremuta, mezza mela",
-        "20g parmigiano, mezza mela",
-        "pollo, carote, pane",
+        "latte, banana, biscotti int",
+        "20g cioccolato, mezza mela",
+        "uova, insalata, pane",
         "mandorle, mezza mela",
         "40g pane int, pomodorini, sale, olio, parmigiano",
-        "sushi (libero)",
+        "pollo, fagiolini, pane",
       ],
     },
     {
@@ -41,10 +41,10 @@ document.addEventListener("DOMContentLoaded", () => {
       meals: [
         "spremuta, 80g fetta di pane tostato, ricotta, miele",
         "20g parmigiano, mezza mela",
-        "uova, pane, carote",
+        "pollo, fagiolini, pane",
         "mandorle, mezza mela",
         "40g pane int, pomodorini, sale, olio, parmigiano",
-        "hummus, carote, piada",
+        "sushi",
       ],
     },
     {
@@ -52,10 +52,10 @@ document.addEventListener("DOMContentLoaded", () => {
       meals: [
         "latte, banana, biscotti int",
         "20g parmigiano, mezza mela",
-        "pasta al pomodoro, insalata, affettato",
+        "pasta al pomodoro, insalata, tonno",
         "15 mandorle, mezza mela",
         "40g pane int, pomodorini, sale, olio, parmigiano",
-        "piada con prosciutto, mozzarella e insalata",
+        "hummus, carote, piada",
       ],
     },
     {
@@ -66,7 +66,7 @@ document.addEventListener("DOMContentLoaded", () => {
         "pasta al pomodoro, insalata, formaggi",
         "-",
         "40g pane int, pomodorini, sale, olio, parmigiano",
-        "pizza (libero)",
+        "pizza",
       ],
     },
     {
