@@ -75,7 +75,7 @@ document.addEventListener("DOMContentLoaded", () => {
     },
   ];
 
-  const mealLabels = ["colazione", "spuntino", "pranzo", "spuntino", "cena"];
+  const mealLabels = ["colazione", "spuntino", "pranzo", "spuntino 1", "spuntino 2", "cena"];
 
   // 0 = Sunday, 6 = Saturday; convert so 0 = Monday, 6 = Sunday
   const jsDay = new Date().getDay();
