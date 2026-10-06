@@ -1,52 +1,48 @@
 
-lun: 
-	col: latte, banana, biscotti int
-	mer: 20g cioccolato, mezza mela
-	pra: 3 uova, insalata, pane int
-	mer: mandorle, mezza mela
-	me2: 40g pane int, pomodorini, sale, olio, parmigiano 
-	cen: hummus, piada, carote
+lun:
+	c: caffè, 80g pane tostato, marmellata 100%, frutto
+	m: 30g cioccolato fondente
+	p: 130g pasta integrale con pomodoro, carote
+	m: 30g frutta secca
+	c: 300g pollo, zucchine alla piastra
 mar:
-	col: spremuta, 80g fette di pane tostato, ricotta, miele
-	mer: 20g cioccolato, mezza mela
-	pra: pasta pomodoro, insalata, mozzarella
-	mer: mandorle, mezza mela
-	me2: 40g pane int, pomodorini, sale, olio, parmigiano
-	cen: pollo, carote, pane
+	c: caffè, 150g yogurt greco, 30g frutta secca, 10g semi zucca
+	m: frutto, crackers
+	p: 130g pasta integrale con pomodoro, insalata
+	m: 125g yogurt greco, 15g frutta secca
+	c: 300g hummus, carote
 mer:
-	col: yogurt greco, muesli, miele, spremuta, banana
-	mer: 20g parmigiano, mezza mela
-	pra: hummus, carote, piada
-	mer: mandorle, mezza mela
-	me2: 40g pane int, pomodorini, sale, olio, parmigiano
-	cen: crocchette pesce affare, pane (poco), insalata
+	c: caffè, 80g pane tostato, marmellata 100%, frutto
+	m: 30g cioccolato fondente
+	p: 130g pasta integrale con pomodoro, carote
+	m: 30g frutta secca
+	c: 300g pesce (no gratinato), zucchine alla piastra
 gio:
-	col: spremuta, 80g fetta di pane tostato, ricotta, miele
-	mer: 20g parmigiano, mezza mela
-	pra: pollo, carote, pane
-	mer: 15 mandorle, mezza mela
-	me2: 40g pane int, pomodorini, sale, olio, parmigiano
-	cen: crocchette pesce findus, pane (poco), insalata
+	c: caffè, 150g yogurt greco, 30g frutta secca, 10g semi zucca
+	m: 30g cioccolato fondente
+	p: 300g pollo, melanzane alla piastra
+	m: 30g frutta secca
+	c: 130g pasta integrale con pomodoro, carote
 ven:
-	col: latte, banana, biscotti int
-	mer: 20g parmigiano, mezza mela
-	pra: crocchette pesce findus, pane (poco), carote
-	mer: 15 mandorle, mezza mela
-	me2: 40g pane int, pomodorini, sale, olio, parmigiano
-	cen: piada con prosciutto, mozzarella e insalata
+	c: caffè, 80g pane tostato, marmellata 100%, frutto
+	m: 30g cioccolato fondente
+	p: 130g pasta integrale con pomodoro, carote
+	m: 30g frutta secca
+	c: 300g hummus, carote
 sab:
-	col: spremuta, 150g vasetto di yogurt greco 0%, 4 cucchiai di muesli (misto cerali e frutta secca), banana
-	mer: -
-	pra: -
-	mer: -
-	me2: -
-	cen: pizza (libero)
+	c: caffè, 150g yogurt greco, 30g frutta secca, 10g semi zucca
+	m: frutto, crackers
+	p: 4 uova, carote
+	m: 125g yogurt greco, 15g frutta secca
+	c: libero
 dom:
-	col: spremuta, 80g fetta di pane tostato, ricotta, miele, 2 noci 
-	mer: caffè macchiato
-	pra: pasta al pomodoro, insalata, affettato ?
-	mer: cioccolato, mela
-	me2: 40g pane int, pomodorini, sale, olio, parmigiano
-	cen: hummus, piada, carote
+	c: caffè, 80g pane tostato, marmellata 100%, frutto
+	m: frutto, crackers
+	p: libero
+	m: 125g yogurt greco, 15g frutta secca
+	c: 300g hummus/pesce, zucchine/melanzane alla piastra
 	
-legumi (3/3), pesce (3/2), carne (2/3), uova (1/1), formaggi (1/1), affettati (1/1)
+legumi 3+, pesce 2+, carne 2, uova 1, affettati 1
+2 frutti al giorno
+2 frutta secca al giorno
+piatto singolo per pasto
